@@ -1,0 +1,4 @@
+echo "Thanks GitHub for making open source collaboration easy!" > thanks.txt
+git add thanks.txt
+git commit -m "Add thanks.txt with a thank-you note to GitHub"
+git push origin main
