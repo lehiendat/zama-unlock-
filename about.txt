@@ -1,0 +1,4 @@
+echo "This project is created to test GitHub contributions." > about.txt
+git add about.txt
+git commit -m "Add about.txt to describe the project"
+git push origin main
