@@ -1,0 +1,4 @@
+echo "Goals: \n- Learn Git\n- Complete airdrop tasks\n- Contribute regularly" > goals.txt
+git add goals.txt
+git commit -m "Add goals.txt with personal contribution goals"
+git push origin main
