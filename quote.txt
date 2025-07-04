@@ -1,0 +1,4 @@
+echo "\"Stay hungry, stay foolish.\" – Steve Jobs" > quote.txt
+git add quote.txt
+git commit -m "Add inspirational quote to quote.txt"
+git push origin main
